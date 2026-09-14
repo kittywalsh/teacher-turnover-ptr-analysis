@@ -10,6 +10,8 @@ Both datasets are publicly available from the Department for Education (DfE), as
 - **Teacher turnover – school level** (https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/a92cdbbb-5596-4b1c-a169-b350461c5294?)
 - **Pupil to teacher ratios – school level** (https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/d5f1867a-ca93-454d-9361-6c64df108872?)
 
+Contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+
 ## Methodology
 
 Before beginning the analysis, an exploration of each dataset was conducted to determine its contents, breadth and scope. The data was cleaned by identifying any missing values or special codes used by the DfE to communicate the characteristics of the data, and checks were performed to ensure no duplication was present. Where values were identified that could not be used reliable, they were excluded from calculations but retained in the dataset.
