@@ -32,4 +32,6 @@ Analysis records by establishment group
 Primary and nursery
 ![Chart](Teacher-turnover-by-relative-PTR-group_Primary-and-nursery.png)
 Secondary
+![Chart](Teacher-turnover-by-relative-PTR-group_Secondary.png)
+Special and PRU
 ![Chart](
