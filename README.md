@@ -1,4 +1,4 @@
-# teacher-turnover-ptr-analysis
+# Teacher Turnover and Pupil-to-Qualified-Teacher Ratios in England: A SQL Analysis
 SQL analysis exploring the relationship between pupil-to-qualified-teacher ratios and teacher turnover in schools in England.
 
 This analysis investigates the relationship between pupil-to-qualified-teacher ratios and teacher turnover in schools in England over time, specifically examining the academic years 2010/11–2024/25. It uses publicly available datasets from the Department for Education (DfE) to investigate whether there is an association between the two measures. SQL was used to explore, clean, join and analyse the datasets.
@@ -34,4 +34,14 @@ Primary and nursery
 Secondary
 ![Chart](Teacher-turnover-by-relative-PTR-group_Secondary.png)
 Special and PRU
-![Chart](
+![Chart](Teacher-turnover-by-relative-PTR-group_Special-and-PRU.png)
+
+## Limitations
+1) This analysis does not account for other factors that might influence teacher turnover rates, such as policy changes, salary and pay disputes, work-life balance, government funding and school budgets or working conditions. The data here is observational, and the results show an association, rather than show causation.
+2) The thresholds for determining whether PTR was low, medium or high were derived from the dataset; these were not objective categories, but rather relative thresholds calculated based on the distribution of ratios within each broad establishment group.
+3) Initial analysis indicated an association between higher average turnover and academies. For the purposes of this analysis, however, LA-maintained schools and academies were grouped together to allow categorisation by broader school setting. The relationship between PTR and average turnover in academies compared to LA-maintained schools may therefore constitute a question for further examination.
+4) When calculating average teacher turnover, this was done at the school level, rather than across the total teacher workforce. This means that each school-year record was given equal weight regardless of the size of its teacher workforce.
+
+## Tools used
+- **SQL** – data exploration, cleaning, transformation and analysis
+- **DataLab** – data analysis and visualisation
