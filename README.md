@@ -27,3 +27,7 @@ Finally, average turnover percentages across the establishment types were compar
 3) While low PTR was generally associated with higher turnover in the Secondary and Special and PRU groups, the relationship was less linear than the Primary and nursery group.
 
 ## Visualisations
+Analysis records by establishment group
+![Chart](Number-of-analysis-records-by-establishment-group.png)
+Primary and nursery
+![Chart]
