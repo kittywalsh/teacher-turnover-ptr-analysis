@@ -30,4 +30,6 @@ Finally, average turnover percentages across the establishment types were compar
 Analysis records by establishment group
 ![Chart](Number-of-analysis-records-by-establishment-group.png)
 Primary and nursery
-![Chart]
+![Chart](Teacher-turnover-by-relative-PTR-group_Primary-and-nursery.png)
+Secondary
+![Chart](
