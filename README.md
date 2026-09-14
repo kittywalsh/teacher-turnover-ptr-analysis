@@ -19,3 +19,11 @@ Next, teacher turnover was defined and calculated as the full-time-equivalent (F
 A join was performed with the second dataset to introduce pupil-to-qualified-teacher-ratios (PTR). Prior to this, the second dataset was reduced to the relevant columns and academic years, while retaining all records in the selected period. Three broad categories of establishment type were created rather than using more granular school-type categories, and relative PTR thresholds were calculated to reflect the distribution of the data within each category using the 33rd and 67th percentiles.
 
 Finally, average turnover percentages across the establishment types were compared, which allowed differences between low, medium and high PTR to be examined over the 15 year period.
+
+## Key findings
+
+1) Low PTR (as defined by the relative thresholds calculated) was associated with higher average turnover across all of the establishment group categories and in 44 of the 45 establishment group/year comparisons made in the 15 year period. Low PTR is therefore generally associated with higher average turnover.
+2) A pattern was identified within the Primary and nursery group: the lower the PTR, the higher the average turnover.
+3) While low PTR was generally associated with higher turnover in the Secondary and Special and PRU groups, the relationship was less linear than the Primary and nursery group.
+
+## Visualisations
